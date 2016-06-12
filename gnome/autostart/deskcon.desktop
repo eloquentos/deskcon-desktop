@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Deskcon
+Comment=Sync notifications between your phone and GNOME desktop
+Exec=/usr/bin/deskcon-server
+X-GNOME-Autostart-enabled=true
